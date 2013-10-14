@@ -9,7 +9,7 @@ I looked and looked for a sample code to print TreeView controls in C#. I couldn
 
 #Background
 
-During my search for a printing sample, I came across this article by Koay Kah Hoe, which presents a solution in C++. It gave me a few ideas and after finding some information on Usenet about getting an image of a control, I was ready to code.
+During my search for a printing sample, I came across this [article](http://www.codeproject.com/Articles/233/A-Print-Enabled-Tree-View) by Koay Kah Hoe, which presents a solution in C++. It gave me a few ideas and after finding some information on Usenet about getting an image of a control, I was ready to code.
 
 #Using the code
 
