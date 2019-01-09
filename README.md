@@ -3,8 +3,6 @@ PrintTreeView
 
 A small library to print a Windows Forms TreeView Control
 
-This project is mirrored from a [GitLab repository](https://gitlab.com/mapitman/PrintTreeView)
-
 # Introduction
 
 I looked and looked for a sample code to print TreeView controls in C#. I couldn't find anything that did exactly what I needed, so I broke down and wrote it myself!
